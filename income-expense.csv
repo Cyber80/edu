@@ -1,0 +1,78 @@
+﻿จังหวัด,ภาค,province,Region,income,expense, รวมรายจ่าย ทั้งหมดของคนในครัวเรือน 
+     กระบี่ , ภาคใต้ ,     Krabi , Southern Region ,31012,14562,174746
+     กาญจนบุรี , ภาคกลาง ,     Kanchanaburi , Central Region ,18884,13259,159110
+     กาฬสินธุ์ , ภาคตะวันออกเฉียงเหนือ ,     Kalasin , Northeastern Region ,15452,12101,145210
+     กำแพงเพชร , ภาคเหนือ ,     Kamphaeng Phet , Northern Region ,20140,13925,167104
+     ขอนแก่น , ภาคตะวันออกเฉียงเหนือ ,     Khon Kaen , Northeastern Region ,21337,12229,146749
+     จันทบุรี , ภาคกลาง ,     Chanthaburi , Central Region ,36024,13957,167486
+     ฉะเชิงเทรา , ภาคกลาง ,     Chachoengsao , Central Region ,27555,13853,166238
+     ชลบุรี , ภาคกลาง ,     Chon Buri , Central Region ,27257,12219,146632
+     ชัยนาท , ภาคกลาง ,     Chai Nat , Central Region ,22059,12281,147372
+     ชัยภูมิ , ภาคตะวันออกเฉียงเหนือ ,     Chaiyaphum , Northeastern Region ,23830,10539,126468
+     ชุมพร , ภาคใต้ ,     Chumphon , Southern Region ,29306,13156,157866
+     เชียงราย , ภาคเหนือ ,     Chiang Rai , Northern Region ,13497,10496,125953
+     เชียงใหม่ , ภาคเหนือ ,     Chiang Mai , Northern Region ,14950,11367,136399
+     ตรัง , ภาคใต้ ,     Trang , Southern Region ,23309,11918,143015
+     ตราด , ภาคกลาง ,     Trat , Central Region ,25333,12572,150866
+     ตาก , ภาคเหนือ ,     Tak , Northern Region ,20079,9388,112651
+     นครนายก , ภาคกลาง ,     Nakhon Nayok , Central Region ,23555,12604,151243
+     นครปฐม , ภาคกลาง ,     Nakhon Pathom , Central Region ,40347,16158,193901
+     นครพนม , ภาคตะวันออกเฉียงเหนือ ,     Nakhon Phanom , Northeastern Region ,15804,9536,114435
+     นครราชสีมา , ภาคตะวันออกเฉียงเหนือ ,     Nakhon Ratchasima , Northeastern Region ,26376,12038,144457
+     นครศรีธรรมราช , ภาคใต้ ,     Nakhon Si Thammarat , Southern Region ,25124,12214,146573
+     นครสวรรค์ , ภาคเหนือ ,     Nakhon Sawan , Northern Region ,21952,13119,157430
+     นนทบุรี , ตอนพิเศษ ,     Nonthaburi , Greater Bangkok ,36884,17892,214702
+     นราธิวาส , ภาคใต้ ,     Narathiwat , Southern Region ,19890,11037,132438
+     น่าน , ภาคเหนือ ,     Nan , Northern Region ,17886,11532,138388
+     บึงกาฬ , ภาคตะวันออกเฉียงเหนือ ,     Bungkan , Northeastern Region ,23767,11271,135257
+     บุรีรัมย์ , ภาคตะวันออกเฉียงเหนือ ,     Buri Ram , Northeastern Region ,18480,10799,129590
+     ปทุมธานี , ตอนพิเศษ ,     Pathum Thani , Greater Bangkok ,41057,18040,216477
+     ประจวบคีรีขันธ์ , ภาคกลาง ,     Prachuap Khiri Khan , Central Region ,23523,13329,159951
+     ปราจีนบุรี , ภาคกลาง ,     Prachin Buri , Central Region ,24166,14026,168315
+     ปัตตานี , ภาคใต้ ,     Pattani , Southern Region ,17513,11168,134019
+     พระนครศรีอยุธยา , ภาคกลาง ,     Phra Nakhon Si Ayutthaya , Central Region ,28379,14325,171904
+     พะเยา , ภาคเหนือ ,     Phayao , Northern Region ,17673,11655,139859
+     พังงา , ภาคใต้ ,     Phangnga , Southern Region ,28842,14303,171632
+     พัทลุง , ภาคใต้ ,     Phattalung , Southern Region ,21478,11570,138843
+     พิจิตร , ภาคเหนือ ,     Phichit , Northern Region ,22101,12717,152604
+     พิษณุโลก , ภาคเหนือ ,     Phitsanulok , Northern Region ,19235,12806,153668
+     เพชรบุรี , ภาคกลาง ,     Phetchaburi , Central Region ,26431,13386,160636
+     เพชรบูรณ์ , ภาคเหนือ ,     Phetchabun , Northern Region ,21337,12279,147349
+     แพร่ , ภาคเหนือ ,     Phrae , Northern Region ,21796,10879,130546
+     ภูเก็ต , ภาคใต้ ,     Phuket , Southern Region ,31500,14979,179748
+     มหาสารคาม , ภาคตะวันออกเฉียงเหนือ ,     Maha Sarakham , Northeastern Region ,18540,11534,138413
+     มุกดาหาร , ภาคตะวันออกเฉียงเหนือ ,     Mukdahan , Northeastern Region ,22870,11928,143137
+     แม่ฮ่องสอน , ภาคเหนือ ,     Mae Hong Son , Northern Region ,15119,7642,91708
+     ยโสธร , ภาคตะวันออกเฉียงเหนือ ,     Yasothon , Northeastern Region ,19518,10391,124695
+     ยะลา , ภาคใต้ ,     Yala , Southern Region ,15584,11099,133184
+     ร้อยเอ็ด , ภาคตะวันออกเฉียงเหนือ ,     Roi Et , Northeastern Region ,19990,11878,142535
+     ระนอง , ภาคใต้ ,     Ranong , Southern Region ,22035,10893,130717
+     ระยอง , ภาคกลาง ,     Rayong , Central Region ,30315,16119,193423
+     ราชบุรี , ภาคกลาง ,     Ratchaburi , Central Region ,19590,13909,166908
+     ลพบุรี , ภาคกลาง ,     Lop Buri , Central Region ,22955,12529,150343
+     ลำปาง , ภาคเหนือ ,     Lampang , Northern Region ,20466,10534,126411
+     ลำพูน , ภาคเหนือ ,     Lamphun , Northern Region ,23834,12398,148778
+     เลย , ภาคตะวันออกเฉียงเหนือ ,     Loei , Northeastern Region ,20990,11489,137864
+     ศรีสะเกษ , ภาคตะวันออกเฉียงเหนือ ,     Si Sa Ket , Northeastern Region ,18793,11233,134800
+     สกลนคร , ภาคตะวันออกเฉียงเหนือ ,     Sakon Nakhon , Northeastern Region ,19281,10126,121513
+     สงขลา , ภาคใต้ ,     Songkhla , Southern Region ,27660,14094,169122
+     สตูล , ภาคใต้ ,     Satun , Southern Region ,23209,11127,133526
+     สมุทรปราการ , ตอนพิเศษ ,     Samut Prakan , Greater Bangkok ,25457,13270,159239
+     สมุทรสงคราม , ภาคกลาง ,     Samut Songkhram , Central Region ,18310,11526,138313
+     สมุทรสาคร , ภาคกลาง ,     Samut Sakhon , Central Region ,29347,16817,201805
+     สระแก้ว , ภาคกลาง ,     Sa Kaeo , Central Region ,26953,11128,133536
+     สระบุรี , ภาคกลาง ,     Saraburi , Central Region ,29413,15997,191969
+     สิงห์บุรี , ภาคกลาง ,     Sing Buri , Central Region ,26112,12899,154790
+     สุโขทัย , ภาคเหนือ ,     Sukhothai , Northern Region ,22252,11861,142329
+     สุพรรณบุรี , ภาคกลาง ,     Suphan Buri , Central Region ,15786,13081,156975
+     สุราษฎร์ธานี , ภาคใต้ ,     Surat Thani , Southern Region ,36466,14027,168320
+     สุรินทร์ , ภาคตะวันออกเฉียงเหนือ ,     Surin , Northeastern Region ,20315,12479,149744
+     หนองคาย , ภาคตะวันออกเฉียงเหนือ ,     Nong Khai , Northeastern Region ,21207,11524,138293
+     หนองบัวลำภู , ภาคตะวันออกเฉียงเหนือ ,     Nong Bua Lam Phu , Northeastern Region ,22553,10486,125835
+     อ่างทอง , ภาคกลาง ,     Ang Thong , Central Region ,23351,12020,144243
+     อำนาจเจริญ , ภาคตะวันออกเฉียงเหนือ ,     Amnat Charoen , Northeastern Region ,21173,10450,125403
+     อุดรธานี , ภาคตะวันออกเฉียงเหนือ ,     Udon Thani , Northeastern Region ,22817,13754,165050
+     อุตรดิตถ์ , ภาคเหนือ ,     Uttaradit , Northern Region ,19239,10394,124729
+     อุทัยธานี , ภาคเหนือ ,     Uthai Thani , Northern Region ,20115,11748,140971
+     อุบลราชธานี , ภาคตะวันออกเฉียงเหนือ ,     Ubon Ratchathani , Northeastern Region ,20453,10926.75,131121
+Source:,,,,,,
